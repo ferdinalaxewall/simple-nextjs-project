@@ -12,7 +12,7 @@ export default function Home() {
 
       <Link href={"/"}> Home</Link>
       <Link href={"/about"}> About</Link>
-      <Link href={"/blog"}> Blog</Link>
+      <Link href={"/products"}> Products</Link>
     </div>
   )
 }
